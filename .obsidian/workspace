@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "content/notes/search.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/notes/search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/notes/search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "content/notes/search.md"
               }
             }
           }
@@ -129,5 +129,14 @@
     "collapsed": true
   },
   "active": "d5344111126781e2",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "content/notes/showcase.md",
+    "content/notes/troubleshooting.md",
+    "content/notes/updating.md",
+    "content/notes/custom Domain.md",
+    "content/notes/config.md",
+    "content/notes/CJK + Latex Support (测试).md",
+    "content/notes/callouts.md",
+    "README.md"
+  ]
 }
