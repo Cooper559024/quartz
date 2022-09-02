@@ -1,4 +1,5 @@
 ---
+title: "The Luminous"
 tags:
 - esperGenesis
 - galaxyInfo

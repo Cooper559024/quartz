@@ -1,5 +1,5 @@
 ---
-title: "EsperGenesis"
+title: "Esper Genesis"
 tags:
 - esperGenesis
 ---

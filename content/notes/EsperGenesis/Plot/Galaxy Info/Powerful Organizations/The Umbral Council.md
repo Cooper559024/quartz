@@ -1,4 +1,5 @@
 ---
+title: "The Umbral Council"
 tags:
 - esperGenesis
 - galaxyInfo
