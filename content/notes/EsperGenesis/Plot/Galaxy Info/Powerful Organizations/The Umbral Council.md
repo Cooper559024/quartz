@@ -5,4 +5,4 @@ tags:
 - powerfulOrganization
 ---
 
-[[Galaxy Info|back]] [[Esper Genesis|Home]]
+[[Galaxy Info|back]] [[EsperGenesis|Home]]

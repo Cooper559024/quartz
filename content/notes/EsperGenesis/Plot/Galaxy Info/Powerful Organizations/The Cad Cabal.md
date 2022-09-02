@@ -1,8 +1,10 @@
 ---
+title "The Cad Cabal"
 tags:
 - esperGenesis
 - galaxyInfo
 - powerfulOrganization
 ---
 
-[[Galaxy Info|back]] [[Esper Genesis|Home]]
+[[Galaxy Info|back]] [Home](/content/_index)
+

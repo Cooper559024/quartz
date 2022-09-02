@@ -14,4 +14,4 @@ tags:
 # Passives
 ## Passive Perception:
 ## Passive Insight:
-[[Character Information|Back]] [[Esper Genesis|Home]]
+[[Character Information|Back]] [[EsperGenesis|Home]]

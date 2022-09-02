@@ -31,4 +31,4 @@ labelColors: true
 fill: false
 beginAtZero: true
 ```
-[[Galaxy Info|Back]] [[Esper Genesis|Home]] 
+[[Galaxy Info|Back]] [[EsperGenesis|Home]] 

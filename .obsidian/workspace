@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/search.md",
+            "file": "content/notes/EsperGenesis/EsperGenesis.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/search.md",
+                "file": "content/notes/EsperGenesis/EsperGenesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/search.md",
+                "file": "content/notes/EsperGenesis/EsperGenesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/search.md"
+                "file": "content/notes/EsperGenesis/EsperGenesis.md"
               }
             }
           }
@@ -130,13 +130,14 @@
   },
   "active": "d5344111126781e2",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/notes/EsperGenesis/EsperGenesis.md",
+    "content/notes/EsperGenesis/Esper.md",
+    "content/notes/EsperGenesis/Plot/Galaxy Info/Powerful Organizations/The Cad Cabal.md",
+    "content/notes/_index.md",
+    "content/notes/EsperGenesis/Plot/Galaxy Info/Planets/Abraxis Prime.md",
+    "content/notes/search.md",
     "content/notes/showcase.md",
-    "content/notes/troubleshooting.md",
-    "content/notes/updating.md",
-    "content/notes/custom Domain.md",
-    "content/notes/config.md",
-    "content/notes/CJK + Latex Support (测试).md",
-    "content/notes/callouts.md",
-    "README.md"
+    "content/notes/troubleshooting.md"
   ]
 }
